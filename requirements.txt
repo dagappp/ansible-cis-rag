@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+torch
+pyyaml
+ruamel.yaml
+jinja2
+tiktoken
+docling
+ansible-core
+ansible-lint
